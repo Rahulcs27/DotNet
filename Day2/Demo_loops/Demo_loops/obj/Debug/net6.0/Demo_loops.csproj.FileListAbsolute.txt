@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.AssemblyInfo.cs
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.sourcelink.json
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\bin\Debug\net6.0\Demo_loops.exe
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\bin\Debug\net6.0\Demo_loops.deps.json
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\bin\Debug\net6.0\Demo_loops.runtimeconfig.json
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\bin\Debug\net6.0\Demo_loops.dll
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\bin\Debug\net6.0\Demo_loops.pdb
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.dll
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\refint\Demo_loops.dll
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.pdb
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\Demo_loops.genruntimeconfig.cache
+C:\Users\User\Desktop\DotNet\Day2\Demo_loops\Demo_loops\obj\Debug\net6.0\ref\Demo_loops.dll
