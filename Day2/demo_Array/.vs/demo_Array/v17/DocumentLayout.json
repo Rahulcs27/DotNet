@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DotNet\\Day2\\demo_Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB3E7ED-69EE-40DE-96D8-6D1A4393ED7C}|demo_Array\\demo_Array.csproj|c:\\users\\user\\desktop\\dotnet\\day2\\demo_array\\demo_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB3E7ED-69EE-40DE-96D8-6D1A4393ED7C}|demo_Array\\demo_Array.csproj|solutionrelative:demo_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DotNet\\Day2\\demo_Array\\demo_Array\\Program.cs",
+              "RelativeDocumentMoniker": "demo_Array\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DotNet\\Day2\\demo_Array\\demo_Array\\Program.cs",
+              "RelativeToolTip": "demo_Array\\Program.cs",
+              "ViewState": "AgIAAAYAAADgZWZmZmYmwDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:14:05.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

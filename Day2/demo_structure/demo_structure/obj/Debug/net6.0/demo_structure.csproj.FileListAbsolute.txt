@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\bin\Debug\net6.0\demo_structure.exe
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\bin\Debug\net6.0\demo_structure.deps.json
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\bin\Debug\net6.0\demo_structure.runtimeconfig.json
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\bin\Debug\net6.0\demo_structure.dll
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\bin\Debug\net6.0\demo_structure.pdb
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.AssemblyInfo.cs
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.sourcelink.json
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.dll
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\refint\demo_structure.dll
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.pdb
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\demo_structure.genruntimeconfig.cache
+C:\Users\User\Desktop\DotNet\Day2\demo_structure\demo_structure\obj\Debug\net6.0\ref\demo_structure.dll

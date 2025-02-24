@@ -73,6 +73,28 @@
                 }
             }
             #endregion
+            #region switch-case
+            Console.WriteLine("choice");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            while (choice < 4)
+            {
+                switch (choice)
+                {
+                    case 1:
+                        Console.WriteLine("You chose 1");
+                        break;
+                    case 2:
+                        Console.WriteLine("You chose 2");
+                        break;
+                    case 3:
+                        Console.WriteLine("You chose 3");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice");
+                        break;
+                }
+            }
+
         }
     }
 }
