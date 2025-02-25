@@ -15,6 +15,7 @@ namespace demo_string
             StringBuilder sb = new StringBuilder("Hello");
             sb.Append(" World");
             Console.WriteLine(sb.ToString());  // Output: Hello World
+
         }
     }
 }
