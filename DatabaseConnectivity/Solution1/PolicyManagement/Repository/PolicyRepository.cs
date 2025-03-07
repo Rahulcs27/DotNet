@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -37,7 +38,8 @@ namespace PolicyManagement.Repository
                                 PolicyId = (int)reader["PolicyId"],
                                 PolicyHolderName = reader["PolicyHolderName"].ToString(),
                                 PolicyType = policyType.ToString(),
-                                StartDate = (DateTime)reader["StartDate"],
+                                //StartDate = (DateTime)reader["StartDate"],
+                                StartDate = reader.GetDateTime("StartDate"),
                                 EndDate = (DateTime)reader["EndDate"]
                             };
 
