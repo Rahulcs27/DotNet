@@ -1,4 +1,5 @@
-﻿using PolicyManagement.Repository;
+﻿using PolicyManagement.Models;
+using PolicyManagement.Repository;
 
 namespace PolicyManagement
 {

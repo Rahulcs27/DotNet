@@ -4,14 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolicyManagement
+namespace PolicyManagement.Models
 {
-    public enum PolicyType
-    {
-        Health,
-        Life,
-        Vehicle
-    }
 
     public class Policy
     {

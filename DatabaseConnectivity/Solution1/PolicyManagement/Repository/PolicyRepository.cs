@@ -5,12 +5,15 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PolicyManagement.Constants;
+using PolicyManagement.Models;
+using PolicyManagement.Utility;
 
 namespace PolicyManagement.Repository
 {
     public class PolicyRepository
     {
-        private readonly string connectionString = "Server=DESKTOP-V2H7PT7;Database=InsuranceDB;Trusted_Connection=True;";
+        private readonly string connectionString = DbConnUtil.GetConnectionString();
 
         public List<Policy> GetAllPolicies()
         {
