@@ -114,7 +114,7 @@ namespace PolicyManagement
                         Console.Write("Enter Policy ID to update: ");
                         if (!int.TryParse(Console.ReadLine(), out int updateId))
                         {
-                            Console.WriteLine("❌ Invalid ID!");
+                            Console.WriteLine("Invalid ID!");
                             break;
                         }
                         bool updated = policyRepo.UpdatePolicy(updateId);
